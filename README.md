@@ -1,6 +1,7 @@
 # Sistema Companhia Telefônica
+![telefone](https://user-images.githubusercontent.com/72751916/178322567-03e5a735-e9b3-4e1c-9c98-374de7aa8a76.png)
 ## Objetivo
-Utilizar os conhecimentos obtidos durante o semestre, com foco em vetores, matrizes e funções.
+Utilizar os conhecimentos obtidos na matéria de lógica de programação durante o 1º período do curso de Sistemas para Internet, com foco em vetores, matrizes e funções.
 ## Tarefa 1
 Fazer a leitura dos dados dos clientes, informando, para cada um, o seu nome, o número do seu telefone, o tipo de assinatura (0, 1 ou 2). Cada coluna da tabela deve ser armazenada em um VETOR.
 
